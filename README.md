@@ -1,2 +1,2 @@
-### Week 3 coursera bootstrap build lab website
+### Lab bug reporter web
 [Bug reporter website](https://reporter.netlify.app/)
